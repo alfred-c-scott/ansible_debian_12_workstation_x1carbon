@@ -24,4 +24,6 @@ sudo systemctl enable snapd --now
 
 sudo snap install core
 
+* install pycharm professional
+
 sudo snap install pycharm-professional --classic
