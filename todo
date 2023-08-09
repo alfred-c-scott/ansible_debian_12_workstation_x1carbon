@@ -1,2 +1,0 @@
-add sudo user to sudoers file
-usermod -aG sudo username
