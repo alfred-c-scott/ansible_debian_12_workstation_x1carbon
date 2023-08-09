@@ -16,4 +16,12 @@ cat /sys/module/iwlwifi/parameters/bt_coex_active
   
 N
 
-*Install snap store
+* Install snap store
+
+sudo snap install snapd
+
+sudo systemctl enable snapd --now
+
+sudo snap install core
+
+sudo snap install pycharm-professional --classic
